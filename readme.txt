@@ -1,3 +1,3 @@
 git³õÌåÑé
-git is aversion control system
+Git is distributed aversion control system
 git is free soetware.
